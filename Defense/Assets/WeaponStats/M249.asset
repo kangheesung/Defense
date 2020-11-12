@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16bf94950206f364cb585c2894d26652, type: 3}
+  m_Name: M249
+  m_EditorClassIdentifier: 
+  weaponName: M249
+  weaponDesc: 
+  weaponFireType: 1
+  weaponAnimationType: 3
+  weaponType: 0
+  weaponMuzzle: 1
+  weaponLowerMount: 0
+  weaponSight: 1
+  weaponMagazine: 1
+  timeBetweenBullets: 0.05
+  projectileCount: 1
+  damagePerShot: 20
+  bulletSpeed: 1
+  bulletAcceleration: 0
+  bulletTimeToLive: 3
+  bulletCount: 100
+  minusRotateSpeed: 7
+  minSpreadX: 0.1
+  minSpreadY: 0.1
+  maxSpreadX: 9
+  maxSpreadY: 3
+  deltaSpread: 3
+  minusSpread: 6
+  spreadTime: 0.2
+  gunParticle: {fileID: 0}
+  gunLight: []
